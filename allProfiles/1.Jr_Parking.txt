@@ -1,0 +1,6 @@
+Jr Parking | Date: 06/03/2022 13:28
+*   |product name        |price |date
+1   |BALANCE             |40    |06/03/2022 13:31
+2   |Marlboro            |16    |06/03/2022 13:31
+2   |Marlboro            |16    |06/03/2022 15:06
+2   |Marlboro            |16    |06/03/2022 18:32

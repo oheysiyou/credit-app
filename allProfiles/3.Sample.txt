@@ -1,0 +1,10 @@
+Sample | Date: 06/03/2022 15:37
+*   |product name        |price |date
+2   |Martis cracklings   |16    |06/03/2022 15:38
+2   |Mentos              |2     |06/03/2022 15:38
+*   |PAYMENT             |-20   |06/03/2022 16:24
+
+Fully paid the remaning balance of 18
+	with the amount of 20
+	with a change of 2.
+Checked by: Ac Villarin, 06/03/2022 16:24
